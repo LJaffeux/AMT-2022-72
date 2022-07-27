@@ -1,5 +1,5 @@
 # AMT-2022-72
-Code and data required to reproduce the data and models in the corresponding paper:
+Code and data associated with "Ice crystals images from Optical Array Probes: classification with Convolutional Neural Networks" Louis Jaffeux, Alfons Schwarzenböck, Pierre Coutris, and Christophe Duroure (submitted in Atmospheric Measurement Techniques)
 
 # Train Convolutionnal Neural Networks
 
