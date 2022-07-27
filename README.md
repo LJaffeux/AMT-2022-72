@@ -9,7 +9,9 @@ They contain the padded images required to run cnncode_2DS.py and cnncode_PIP.py
 # Models shown in the AMT article:
 
 PIP_model.h5py.zip and DS_model.h5py.zip need to be extracted and can be loaded using keras.models.load_model().
+
 For instance:
+
 PIP_model=keras.models.load_model(path_to_Gitclone+'PIP_model.h5py')
 
 # Random inspections results:
