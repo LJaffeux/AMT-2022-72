@@ -1,4 +1,9 @@
 # AMT-2022-72
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6912294.svg)](https://doi.org/10.5281/zenodo.6912294)
+
+
 Code and data associated with:
 
 ## "Ice crystals images from Optical Array Probes: classification with Convolutional Neural Networks" Louis Jaffeux, Alfons Schwarzenböck, Pierre Coutris, and Christophe Duroure in Atmospheric Measurement Techniques.
